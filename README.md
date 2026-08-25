@@ -78,12 +78,12 @@ python train_model.py
 This will create a file called sentiment_model.pkl in the root directory.
 
 ### 🔍 Run Inference
-Use the interactive script (model_test.py) to classify new reviews using the trained model.
+Use the interactive script (test_model.py) to classify new reviews using the trained model.
 
 
 ## 🧑‍💻 Author
-This repository was developed as part of an educational program on practical machine learning using Python.
-All steps were carefully documented and modularized to help students understand and reproduce the entire workflow.
+Hristina Tošić
+Developed as part of my practical Machine Learning studies using Python and scikit-learn.
 
 ## 📃 License
 This project is open-source and freely available for educational use.
